@@ -5,6 +5,6 @@
   },
   "proxies": {
     "/api": {
-      "origin": "https://warbler-backend-tg.herokuapp.com"
+      "origin": "https://warbler-backend-tg.herokuapp.com/api"
     }
 }
