@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Built as a course project from an online Web Development course.
+
+Currently live [here.](http://warbler-client-tg.herokuapp.com)
+
 ## Available Scripts
 
 In the project directory, you can run:
