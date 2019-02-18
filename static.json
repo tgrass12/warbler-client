@@ -7,4 +7,5 @@
     "/api": {
       "origin": "https://warbler-backend-tg.herokuapp.com/api"
     }
+  }
 }
